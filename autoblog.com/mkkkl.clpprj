@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\OpenServer\domains\autoblog.com\mkkkl.clpprj">
+	<settings><PM_URL><![CDATA[D:/OpenServer/domains/autoblog.com/]]></PM_URL><PM_HOME_URL><![CDATA[D:/OpenServer/domains/autoblog.com/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="D:\OpenServer\domains\autoblog.com\classes\MySQLConnector.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\functions.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\details.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\error_not_found.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\category.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\about.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\blog.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\contacts.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\global.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\index.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\LICENSE.txt"/>
+		<file name="D:\OpenServer\domains\autoblog.com\request.sql"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\gallery.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\templates\container.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\config.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\css\zerogrid.css"/>
+		<file name="D:\OpenServer\domains\autoblog.com\css\style.css"/>
+		<file name="D:\OpenServer\domains\autoblog.com\css\lightbox.css"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\css\font-awesome.min.css"/>
+		<file name="D:\OpenServer\domains\autoblog.com\css\menu.css"/>
+		<file name="D:\OpenServer\domains\autoblog.com\owl-carousel\owl.carousel.css"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\newUser.php"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\loginIn.php"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="D:\OpenServer\domains\autoblog.com\pages\loginIn.php">
+			<error val="0;3;3;3;101;1;"/>
+		</errfile>
+		<errfile name="D:\OpenServer\domains\autoblog.com\owl-carousel\owl.carousel.css">
+			<error val="1;22;25;22;2502;1;"/>
+			<error val="1;23;21;23;2502;1;"/>
+			<error val="1;42;42;42;2502;1;"/>
+			<error val="1;58;26;58;2502;1;"/>
+			<error val="1;59;24;59;2502;1;"/>
+			<error val="1;60;23;60;2502;1;"/>
+			<error val="1;62;47;62;2502;1;"/>
+			<error val="1;61;19;61;2502;1;"/>
+			<error val="1;76;34;76;2502;1;"/>
+			<error val="1;77;33;77;2502;1;"/>
+		</errfile>
+		<errfile name="D:\OpenServer\domains\autoblog.com\font-awesome\css\font-awesome.min.css">
+			<error val="4;20;1;21;2502;1;"/>
+			<error val="4;19;40;19;2502;1;"/>
+			<error val="4;96;44;96;2502;1;"/>
+			<error val="4;97;42;97;2502;1;"/>
+		</errfile>
+		<errfile name="D:\OpenServer\domains\autoblog.com\css\style.css">
+			<error val="0;30;7;30;2501;1;"/>
+			<error val="0;90;7;90;2501;1;"/>
+			<error val="0;134;7;134;2501;1;"/>
+			<error val="1;204;32;204;2502;1;"/>
+			<error val="1;203;22;203;2502;1;"/>
+			<error val="1;912;30;912;2502;1;"/>
+			<error val="1;1087;22;1087;2502;1;"/>
+		</errfile>
+		<errfile name="D:\OpenServer\domains\autoblog.com\css\menu.css">
+			<error val="2;43;33;43;2502;1;"/>
+			<error val="2;62;43;62;2502;1;"/>
+			<error val="2;184;29;184;2502;1;"/>
+			<error val="4;292;46;292;2502;1;"/>
+		</errfile>
+		<errfile name="D:\OpenServer\domains\autoblog.com\css\lightbox.css">
+			<error val="2;35;25;35;2502;1;"/>
+			<error val="2;36;24;36;2502;1;"/>
+			<error val="2;53;25;53;2502;1;"/>
+			<error val="2;54;24;54;2502;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="D:\OpenServer\domains\autoblog.com\templates\header.php" crc="1532162588"/>
+		<file name="D:\OpenServer\domains\autoblog.com\templates\footer.php" crc="1530343852"/>
+		<file name="D:\OpenServer\domains\autoblog.com\templates\container.php" crc="1530339204"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\newUser.php" crc="1532163008"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\loginIn.php" crc="1534574135"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\home.php" crc="1530945226"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\gallery.php" crc="1530945256"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\error_not_found.php" crc="1530945264"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\details.php" crc="1531550388"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\contacts.php" crc="1531128722"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\category.php" crc="1531561094"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\blog.php" crc="1530599066"/>
+		<file name="D:\OpenServer\domains\autoblog.com\pages\about.php" crc="1530599104"/>
+		<file name="D:\OpenServer\domains\autoblog.com\owl-carousel\owl.transitions.css" crc="1530945064"/>
+		<file name="D:\OpenServer\domains\autoblog.com\owl-carousel\owl.theme.css" crc="1530944982"/>
+		<file name="D:\OpenServer\domains\autoblog.com\owl-carousel\owl.carousel.min.js" crc="1399886438"/>
+		<file name="D:\OpenServer\domains\autoblog.com\owl-carousel\owl.carousel.js" crc="1530594828"/>
+		<file name="D:\OpenServer\domains\autoblog.com\owl-carousel\owl.carousel.css" crc="1530944962"/>
+		<file name="D:\OpenServer\domains\autoblog.com\js\script.js" crc="1529849578"/>
+		<file name="D:\OpenServer\domains\autoblog.com\js\reloadPage.js" crc="1532161888"/>
+		<file name="D:\OpenServer\domains\autoblog.com\js\lightbox-plus-jquery.min.js" crc="1436434292"/>
+		<file name="D:\OpenServer\domains\autoblog.com\js\jquery1111.min.js" crc="1445570872"/>
+		<file name="D:\OpenServer\domains\autoblog.com\js\html5.js" crc="1530595376"/>
+		<file name="D:\OpenServer\domains\autoblog.com\js\css3-mediaqueries.js" crc="1530594458"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\font-awesome.scss" crc="1530944700"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_variables.scss" crc="1530944670"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_stacked.scss" crc="1530944672"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_spinning.scss" crc="1530944676"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_rotated-flipped.scss" crc="1530944678"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_path.scss" crc="1530944680"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_mixins.scss" crc="1530944682"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_list.scss" crc="1530944686"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_larger.scss" crc="1530944628"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_icons.scss" crc="1530944688"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_fixed-width.scss" crc="1530944692"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_core.scss" crc="1530944694"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\scss\_bordered-pulled.scss" crc="1530944696"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\variables.less" crc="1530944582"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\stacked.less" crc="1530944568"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\spinning.less" crc="1530944556"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\rotated-flipped.less" crc="1385141462"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\path.less" crc="1385141462"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\mixins.less" crc="1385141462"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\list.less" crc="1530597440"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\larger.less" crc="1530597756"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\icons.less" crc="1385141462"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\font-awesome.less" crc="1385141462"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\fixed-width.less" crc="1385141462"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\core.less" crc="1385141462"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\less\bordered-pulled.less" crc="1385141462"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\css\font-awesome.min.css" crc="1530597154"/>
+		<file name="D:\OpenServer\domains\autoblog.com\font-awesome\css\font-awesome.css" crc="1529856826"/>
+		<file name="D:\OpenServer\domains\autoblog.com\css\zerogrid.css" crc="1530343244"/>
+		<file name="D:\OpenServer\domains\autoblog.com\css\style.css" crc="1532155892"/>
+		<file name="D:\OpenServer\domains\autoblog.com\css\menu.css" crc="1530342842"/>
+		<file name="D:\OpenServer\domains\autoblog.com\css\lightbox.css" crc="1530465978"/>
+		<file name="D:\OpenServer\domains\autoblog.com\classes\MySQLConnector.php" crc="1531550060"/>
+		<file name="D:\OpenServer\domains\autoblog.com\request.sql" crc="1532162732"/>
+		<file name="D:\OpenServer\domains\autoblog.com\LICENSE.txt" crc="1530340952"/>
+		<file name="D:\OpenServer\domains\autoblog.com\index.php" crc="1531128508"/>
+		<file name="D:\OpenServer\domains\autoblog.com\global.php" crc="1531126752"/>
+		<file name="D:\OpenServer\domains\autoblog.com\functions.php" crc="1532163930"/>
+		<file name="D:\OpenServer\domains\autoblog.com\error_not_found.php" crc="1530943954"/>
+		<file name="D:\OpenServer\domains\autoblog.com\config.php" crc="1530598760"/>
+		<file name="D:\OpenServer\domains\autoblog.com\.htaccess" crc="1531154522"/>
+	</filescache>
+</project>

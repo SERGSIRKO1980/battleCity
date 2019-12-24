@@ -1,0 +1,42 @@
+<codestructure version="5.11">
+<phptree>
+<treenode node="DEVELOPER_MODE;PHP:PHP Word;D:\OpenServer\domains\autoblog.com\index.php;f8;1;22;1;;;;vpos;;v;;rtrue;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="FILE_EXTENSION;PHP:PHP Word;D:\OpenServer\domains\autoblog.com\index.php;f8;4;22;4;;;;vpos;;v;;r&apos;.php&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PROJECT_ROOT;PHP:PHP Word;D:\OpenServer\domains\autoblog.com\index.php;f8;2;20;2;;;;vpos;;v;;r__DIR__;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="SEPARATOR;PHP:PHP Word;D:\OpenServer\domains\autoblog.com\index.php;f8;3;17;3;;;;vpos;;v;;r&apos;/&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="STORE_IN_DATABASE;PHP:PHP Word;D:\OpenServer\domains\autoblog.com\index.php;f8;5;25;5;;;;vpos;;v;;rtrue;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="MySQLConnector;PHP:Class Name;D:\OpenServer\domains\autoblog.com\classes\MySQLConnector.php;f4;1;5;19;;;;vpos;;v;;r;;d25,1;;b0,0;;m">
+<treenode node="closeConnection;PHP:Function Name;D:\OpenServer\domains\autoblog.com\classes\MySQLConnector.php;f22;16;9;18;;;;vpos;;v;;r;;d49,16;;b1,5;;m">
+</treenode>
+<treenode node="openConnection;PHP:Function Name;D:\OpenServer\domains\autoblog.com\classes\MySQLConnector.php;f21;8;9;14;;;;vpos;;v;;r;;d47,8;;b1,5;;m">
+</treenode>
+</treenode>
+<treenode node="createNewUser;PHP:Function Name;D:\OpenServer\domains\autoblog.com\functions.php;f0;272;1;285;;;;vpos;;v;;r;;d49,272;;b0,0;;mlogin;;ppassword;;pemail;;p">
+</treenode>
+<treenode node="draw_navigation_panel;PHP:Function Name;D:\OpenServer\domains\Проект\functions.php;f0;12;1;35;;D:\OpenServer\domains\autoblog.com\functions.php;f0;12;1;35;;;;vpos;;v;;r;;d34,12;;b0,0;;m">
+</treenode>
+<treenode node="funget_details;PHP:Function Name;D:\OpenServer\domains\Проект\functions.php;f0;231;1;234;;;;vpos;;v;;r;;d34,231;;b0,0;;mmodelCar;;p">
+</treenode>
+<treenode node="get_all_categories;PHP:Function Name;D:\OpenServer\domains\Проект\functions.php;f0;73;1;107;;D:\OpenServer\domains\autoblog.com\functions.php;f0;76;1;110;;;;vpos;;v;;r;;d30,76;;b0,0;;m">
+</treenode>
+<treenode node="get_category;PHP:Function Name;D:\OpenServer\domains\Проект\functions.php;f0;109;1;186;;D:\OpenServer\domains\autoblog.com\functions.php;f0;112;1;189;;;;vpos;;v;;r;;d40,112;;b0,0;;musername;;p">
+</treenode>
+<treenode node="get_config_property;PHP:Function Name;D:\OpenServer\domains\autoblog.com\config.php;f4;1;5;17;;;;vpos;;v;;r;;d40,1;;b0,0;;mkey;;p">
+</treenode>
+<treenode node="get_details;PHP:Function Name;D:\OpenServer\domains\autoblog.com\functions.php;f0;233;1;259;;;;vpos;;v;;r;;d32,233;;b0,0;;mmodelHref;;p">
+</treenode>
+<treenode node="get_page_content;PHP:Function Name;D:\OpenServer\domains\Проект\functions.php;f0;37;1;71;;D:\OpenServer\domains\autoblog.com\functions.php;f0;37;1;74;;;;vpos;;v;;r;;d29,37;;b0,0;;m">
+</treenode>
+<treenode node="send_form_data;PHP:Function Name;D:\OpenServer\domains\Проект\functions.php;f0;188;1;228;;D:\OpenServer\domains\autoblog.com\functions.php;f0;191;1;231;;;;vpos;;v;;r;;d53,191;;b0,0;;moption;;p">
+</treenode>
+<treenode node="start;PHP:Function Name;D:\OpenServer\domains\Проект\functions.php;f0;2;1;10;;D:\OpenServer\domains\autoblog.com\functions.php;f0;2;1;10;;;;vpos;;v;;r;;d25,2;;b0,0;;msource;;p">
+</treenode>
+<treenode node="userExist;PHP:Function Name;D:\OpenServer\domains\autoblog.com\functions.php;f0;260;2;271;;;;vpos;;v;;r;;d26,260;;b0,0;;mlogin;;p">
+</treenode>
+</phptree>
+</codestructure>

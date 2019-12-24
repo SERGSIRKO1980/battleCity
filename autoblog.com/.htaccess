@@ -1,0 +1,17 @@
+# Turn on URL rewriting
+RewriteEngine On
+
+RewriteRule !.(js|gif|jpg|png|css|eot|svg|ttf|woff|woff2|map)$ index.php
+
+# Allow any files or directories that exist to be displayed directly
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^(.*)$ index.php?page=$1 [L,QSA]
+
+# Installation directory
+RewriteBase /
+
+# Prevents directory listing
+Options -Indexes
+
